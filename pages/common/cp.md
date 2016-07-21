@@ -23,7 +23,7 @@
 `cp -vr {{/path/to/folder}} {{/path/to/copy}}`
 
 - Copy the contents of a folder into another folder:
- 
+
 `cp -r {{/path/to/source/folder/*}} {{/path/to/target/folder}}`
 
 - Copy of a file adding an extension:
